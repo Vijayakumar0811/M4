@@ -1,4 +1,7 @@
 # EX-16-LEFT-SHIFT-OPERATION
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
 
@@ -45,7 +48,9 @@ Thus the program to perform the basic left shift operation for 44 integer number
 
 
 # EX-17-TWO-NUMBERS-ARE-EQUAL-OR-NOT
+NAME: VIJAYAKUMAR S
 
+REG NO: 212224040359
 
 ## AIM
 
@@ -89,6 +94,9 @@ Thus the program to check whether the two numbers are equal or not using simple 
 
 
 # EX-18-STRING-LOWERCASE-CONVERSION
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM
 Write a C Program to convert the given string into lowercase.
 
@@ -129,6 +137,9 @@ Thus the program to convert the given string into lowercase has been executed su
 
 
 # EX-19-COUNT-OF-WORDS-IN-A-STRING
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM
 Write a C Program to count the total number of words in a given string using do While loop.
 
@@ -174,6 +185,9 @@ Thus the program to count the total number of words in a given string using do W
 
 
 # EX  -20 -COMPARING TWO STRINGS
+NAME: VIJAYAKUMAR S
+
+REG NO: 212224040359
 ## AIM
 write a Program to compare two strings without using strcmp().
 ## ALGORITHM
